@@ -18,3 +18,5 @@ Swagger API - Swagger used to create the REST API documentation
 Added the example to filter the parameter from REST API response
 
 Added the examples - How to matain REST API versioning. There are different ways to maintin it. like using URIs, Using version Paramters, Using Headers and using the Accept Header(By using produces in controller).
+
+Added spring-boot-security dependency so rest request can be secured. added username and password to access the REST api.
